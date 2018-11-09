@@ -4,6 +4,7 @@ This Java template lets you get started quickly with a simple one-page playgroun
 
 
 TOTOT
+TATA
  
 String message = "Hello World!";
 System.out.println(message);
