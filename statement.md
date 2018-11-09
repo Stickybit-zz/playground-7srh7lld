@@ -11,14 +11,14 @@ An example of very simple task we provide consists in writing a method which tak
 ```java runnable
 public class Main {
 
-    public static void main(String[] args) {
-        System.out.println(isHelloWord("Hello World"));
-    }
-
     static boolean isHelloWord(String str) { 
         return str == "Hello World"; // scary code
         return str.equals("Hello World"); // correct, but what happens if str is null?
         return "Hello World".equals(str); // expected solution
+    }
+    
+    public static void main(String[] args) {
+        System.out.println(isHelloWord("Hello World"));
     }
 }
 ```
