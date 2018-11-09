@@ -33,7 +33,7 @@ public static void main(String[] args) {
 
 isHelloWord("Hello World");
 
-//{ autofold
+// { autofold
 }
 // }
 
@@ -42,7 +42,7 @@ isHelloWord("Hello World");
 boolean isHelloWord(String str) { return "Hello World".equals(str); } expected solution
 // { autofold
 }
-//}
+// }
 ```
 
 
