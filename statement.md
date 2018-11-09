@@ -21,8 +21,8 @@ isHelloWord("Hello World");
 }
 // }
 
-// boolean isHelloWord(String str) { return str == "Hello World"; } // scary code
-// boolean isHelloWord(String str) { return str.equals("Hello World"); } // correct, but what happens if str is null?
+boolean isHelloWord(String str) { return str == "Hello World"; } // scary code
+boolean isHelloWord(String str) { return str.equals("Hello World"); } // correct, but what happens if str is null?
 boolean isHelloWord(String str) { return "Hello World".equals(str); } // expected solution
 // { autofold
 }
