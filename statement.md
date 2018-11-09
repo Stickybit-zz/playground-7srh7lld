@@ -24,12 +24,12 @@ public class Main {
 ```
 
 ## Problem Solving
-This skill corresponds to the candidate's ability to evaluate and resolve a problem by writing an efficient algorithm in Java. Any developers should be able to solve simple problems but advanced analytical skills and logical reasoning are essential when your are hiring Java R&D developers. Our exercises cover several topics like the graph theory, dynamic programming and the number theory.
+This skill corresponds to the candidate's ability to evaluate and resolve a problem by writing an efficient algorithm in Java. Any developers should be able to solve simple problems but advanced analytical skills and logical reasoning are essential when your are hiring Java R&D developers. Problem Solving exercises cover several topics like the graph theory, dynamic programming and the number theory.
 
 An example of a simple problem problem is: 
 > From a given array of natural numbers, returns the distance between the two closest numbers.
 
-A basic solution consists in: for each number, compare it to all the other numbers. This solution takes a long time to process large data sets, its time complexity is O(n²) and it will fail on some of our test cases. A more efficient solution consists in a two steps algorithm: 
+A basic solution consists in: for each number, compare it to all the other numbers. This solution takes a long time to process large data sets, its time complexity is O(n²) and it will fail on some test cases. A more efficient solution consists in a two steps algorithm: 
 
  1. sort the array using a built-in function like `Arrays.sort()`
  2. iterate through the sorted array and compare each number to the previous one.
