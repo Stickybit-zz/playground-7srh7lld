@@ -31,7 +31,7 @@ A basic solution consists in: for each number, compare it to all the other numbe
  1. sort the array using a built-in function like `Arrays.sort()`
  2. iterate through the sorted array and compare each number to the previous one.
 
-Here the time complexity is O(n log(n)).
+See? This is much better!
 
 ## Design
 Having a good understanding of the design patterns, OOP (object-oriented programming) and unit tests give an indication of the developer's ability to implement standard solutions to common problems. A developer with a good level of proficiency in this skill will contribute to increase the maintainability and the extensibility of applications. This skill is particularly important for a senior Java developers who will have to work on the architecture of applications to design long-term solutions.
