@@ -52,7 +52,8 @@ A general rule of thumb is to prefer interface over implementation, it improves 
 This metric focus on the candidate’s ability to follow the Java guidelines and best practices. A high score means that the code is easily understandable by other programmers, easier to maintain and to debug. The readability score is only available if the candidate has given a correct solution to a programming exercise. For example, `private String Name;` will impact the readability score because it does not respect the Java naming convention: `Name` should be written `name`.
 
 ## Reliability
-`str.equals("Hello World")`: what happens if `str` is `null` in this piece of code? The program will crash with a NPE! Reliability refers to the candidate's ability to achieve solutions that address specific cases like corner and edge cases. The higher this skill, the higher the developer anticipates possible errors and minimizes those to build robust programs.
+`str.equals("Hello World")`: what happens if `str` is `null` in this piece of code? The program will crash with a NPE!
+Reliability refers to the candidate's ability to achieve solutions that address specific cases like corner and edge cases. The higher this skill, the higher the developer anticipates possible errors and minimizes those to build robust programs.
 
 ## About CodinGame Assessment
 
