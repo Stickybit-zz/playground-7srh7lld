@@ -61,7 +61,7 @@ The CodinGame Java online tests assess candidates' skills. They are perfect for 
 
 They provide a proven model for identifying and hiring proficient developers. Candidates code their way through real, practical problems that they could encounter in a company (such as finding a bug in a defective piece of code or properly synchronizing a multi-threaded application), enabling recruiters to measure their coding skills objectively and efficiently.
 
-Tech recruiters to HR managers can set up programming tests using platforms like [CodinGame](https://www.codingame.com/work/solutions/coding-skill-assessment/), choosing to test applicants in one specific programming language or over multiple technologies (Java, Angular, Python, etc.).
+Tech recruiters to HR managers can set up programming tests using platforms like CodinGame, choosing to test applicants in one specific programming language or over multiple technologies (Java, Angular, Python, etc.).
 
 Candidates’ code is automatically analyzed and recruiters are provided with performance metrics. Once completed, a [test report](https://www.codingame.com/work/candidates-demo/74) is available to download and share to easily compare and shortlist candidates.
 
