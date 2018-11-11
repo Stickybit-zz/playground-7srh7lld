@@ -1,10 +1,7 @@
 # Java Programming Tests
 
-## Take a Java test
-The CodinGame Java online tests assess candidates' skills. They are perfect for pre-employment screening for developers. Most of the coding interview tools focus only on the candidates' ability to write efficient algorithms but algorithms are a tiny part of software development, mastering them is one skill among several other important skills. [CodinGame Assessment](https://www.codingame.com/work/solutions/coding-skill-assessment/) provides tests covering a wide scope of technical characteristics to evaluate candidates' ability to write good Java programs.
-
 ## Java Language
-These questions check the candidate’s ability to use functionalities that are well-known to Java developers. Using the correct APIs and data structures determine the candidate's level of experience in the practice of the Java programming language. This skill is particularly important if you are looking for a developer who has to be quickly operational in a Java working environment.
+Questions which relates to the Java language check the candidate’s ability to use functionalities that are well-known to Java developers. Using the correct APIs and data structures determine the candidate's level of experience in the practice of the Java programming language. This skill is particularly important for a developer who has to be quickly operational in a Java working environment.
 
 An example of very simple task consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
 
@@ -59,6 +56,8 @@ Reliability refers to the candidate's ability to achieve solutions that address 
 ## About CodinGame Assessment
 
 Coding tests are one of the most efficient ways to screen developers before hiring.
+
+The CodinGame Java online tests assess candidates' skills. They are perfect for pre-employment screening for developers. Most of the coding interview tools focus only on the candidates' ability to write efficient algorithms but algorithms are a tiny part of software development, mastering them is one skill among several other important skills. [CodinGame Assessment](https://www.codingame.com/work/solutions/coding-skill-assessment/) provides tests covering a wide scope of technical characteristics to evaluate candidates' ability to write good Java programs.
 
 They provide a proven model for identifying and hiring proficient developers. Candidates code their way through real, practical problems that they could encounter in a company (such as finding a bug in a defective piece of code or properly synchronizing a multi-threaded application), enabling recruiters to measure their coding skills objectively and efficiently.
 
