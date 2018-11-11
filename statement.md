@@ -52,7 +52,7 @@ A general rule of thumb is to prefer interface over implementation, it improves 
 This metric focus on the candidate’s ability to follow the Java guidelines and best practices. A high score means that the code is easily understandable by other programmers, easier to maintain and to debug. The readability score is only available if the candidate has given a correct solution to a programming exercise. For example, `private String Name;` will impact the readability score because it does not respect the Java naming convention: `Name` should be written `name`.
 
 ## Reliability
-Remember `str.equals("Hello World")`? OK, so what happens if `str` is `null`? 🧐 This piece of code is like a mine silently waiting in your application.
+Remember `str.equals("Hello World")` upper? What happens if `str` is `null`? 🧐 This piece of code is like a mine silently waiting in your application.
 
 Reliability refers to the candidate's ability to achieve solutions that address specific cases like corner and edge cases. The higher this skill, the higher the developer anticipates possible errors and minimizes those to build robust programs.
 
