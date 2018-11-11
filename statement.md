@@ -6,7 +6,7 @@ The CodinGame Java online tests assess candidates' skills. They are perfect for 
 ## Java Language
 These questions check the candidate’s ability to use functionalities that are well-known to Java developers. Using the correct APIs and data structures determine the candidate's level of experience in the practice of the Java programming language. This skill is particularly important if you are looking for a developer who has to be quickly operational in a Java working environment.
 
-An example of very simple task we provide consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
+An example of very simple task consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
 
 ```java runnable
 public class Main {
@@ -27,7 +27,7 @@ public class Main {
 This skill corresponds to the candidate's ability to evaluate and resolve a problem by writing an efficient algorithm in Java. Any developers should be able to solve simple problems but advanced analytical skills and logical reasoning are essential when your are hiring Java R&D developers. Problem Solving exercises cover several topics like the graph theory, dynamic programming and the number theory.
 
 An example of a simple problem problem is: 
-> From a given array of natural numbers, return the distance between the two closest numbers.
+> *From a given array of natural numbers, return the distance between the two closest numbers.*
 
 A basic solution consists in: for each number, compare it to all the other numbers. This solution takes a long time to process large data sets, its time complexity is O(n²) and it will fail on some test cases. A more efficient solution consists in a two steps algorithm: 
 
@@ -40,7 +40,7 @@ Here the time complexity is O(n log(n)).
 Having a good understanding of the design patterns, OOP (object-oriented programming) and unit tests give an indication of the candidate's ability to implement standard solutions to common problems. A developer with a good level of proficiency in this skill will contribute to increase the maintainability and the extensibility of your applications. This skill is particularly important if you are looking for a senior Java developer who will have to work on the architecture of your applications to design long-term solutions.
 
 This is a simple question example:
-> Among these Java method declarations, which is usually the preferred one?
+> *Among these Java method declarations, which is usually the preferred one?*
 ```java
 1) public HashMap getTable()
 2) public Map getTable()
