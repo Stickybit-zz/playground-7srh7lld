@@ -1,4 +1,4 @@
-# Java Programming Tests
+# Java Coding Tests
 
 ## Java Language
 Questions relating to the Java language check the developer’s ability to use functionalities that are well-known. Using the correct APIs and data structures determine the developer's level of experience in the practice of the Java programming language. This skill is particularly important for a developer who has to be quickly operational in a Java working environment.
@@ -61,7 +61,7 @@ The CodinGame Java online tests assess candidates' skills. They are perfect for 
 
 They provide a proven model for identifying and hiring proficient developers. Candidates code their way through real, practical problems that they could encounter in a company (such as finding a bug in a defective piece of code or properly synchronizing a multi-threaded application), enabling recruiters to measure their coding skills objectively and efficiently.
 
-Tech recruiters to HR managers can set up programming tests using platforms like CodinGame, choosing to test applicants in one specific programming language or over multiple technologies (Java, Angular, Python, etc.).
+Tech recruiters to HR managers can set up coding tests using platforms like CodinGame, choosing to test applicants in one specific programming language or over multiple technologies (Java, Angular, Python, etc.).
 
 Candidates’ code is automatically analyzed and recruiters are provided with performance metrics. Once completed, a [test report](https://www.codingame.com/work/candidates-demo/74) is available to download and share to easily compare and shortlist candidates.
 
