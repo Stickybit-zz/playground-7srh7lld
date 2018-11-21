@@ -26,9 +26,9 @@ This skill corresponds to the developer's ability to evaluate and resolve a prob
 An example of a simple problem problem is: 
 > *From a given array of natural numbers, return the distance between the two closest numbers.*
 
-A basic solution consists in: for each number, compare it to all the other numbers. This solution takes a long time to process large data sets, its time complexity is O(n²) and it will fail on some test cases. A more efficient solution consists in a two steps algorithm: 
+A basic solution consists in: for each number, compare it to all the other numbers. This solution takes a long time to process large data sets, its time complexity is O(n²) then it will fail on some test cases. A more efficient solution consists in a two steps algorithm: 
 
- 1. sort the array using a built-in function like `Arrays.sort()`
+ 1. sort the array using a built-in function like `Arrays.sort()` which has a time complexity of O(n log n).
  2. iterate through the sorted array and compare each number to the previous one.
 
 See? This is much better!
