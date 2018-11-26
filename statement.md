@@ -62,6 +62,9 @@ A general rule of thumb is to prefer interface over implementation, it improves 
 This metric focus on the developer’s ability to follow the Java guidelines and best practices. A high score means that the code is easily understandable by other programmers, easier to maintain and to debug. For example, `private String Name;` will impact the readability score because it does not respect the Java naming convention: `Name` should be written `name`.
 
 ## Reliability
+
+![Fixing bugs in practice](https://i.imgur.com/HTisMpC.jpg)
+
 Remember `str.equals("Hello World")` upper? What happens if `str` is `null`? 🧐 This kind of error is like a mine silently waiting in a program.
 
 Reliability refers to the developer's ability to achieve solutions that address specific cases like corner and edge cases. The higher this skill, the higher the developer anticipates possible errors and minimizes those to build robust programs.
