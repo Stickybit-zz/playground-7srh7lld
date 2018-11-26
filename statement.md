@@ -56,6 +56,9 @@ This is a simple question example:
 A general rule of thumb is to prefer interface over implementation, it improves code maintenance, testability and code portability. `Map getTable()` is the expected answer.
 
 ## Readability
+
+![Code readability](https://cdn.tutsplus.com/net/uploads/legacy/516_code/preview.jpg)
+
 This metric focus on the developer’s ability to follow the Java guidelines and best practices. A high score means that the code is easily understandable by other programmers, easier to maintain and to debug. For example, `private String Name;` will impact the readability score because it does not respect the Java naming convention: `Name` should be written `name`.
 
 ## Reliability
