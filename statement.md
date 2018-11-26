@@ -41,6 +41,9 @@ A basic solution consists in: for each number, compare it to all the other numbe
 See? This is much better!
 
 ## Design
+
+![Application architecture and design](https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/why-study-architecture_0.jpg)
+
 Having a good understanding of the design patterns, OOP (object-oriented programming) and unit tests give an indication of the developer's ability to implement standard solutions to common problems. A developer with a good level of proficiency in this skill will contribute to increase the maintainability and the extensibility of applications. This skill is particularly important for senior Java developers who will have to work on the architecture of applications to design long-term solutions.
 
 This is a simple question example:
