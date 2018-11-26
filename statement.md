@@ -1,6 +1,9 @@
+
 # Java Coding Tests
 
 ## Java Language
+![Java Books Library](https://iili.io/Hpk7I.jpg)
+
 Questions relating to the Java language check the developer’s ability to use functionalities that are well-known. Using the correct APIs and data structures determine the developer's level of experience in the practice of the Java programming language. This skill is particularly important for a developer who has to be quickly operational in a Java working environment.
 
 An example of very simple task consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
