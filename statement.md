@@ -1,5 +1,5 @@
 
-# Java Coding Tests
+# Java Interview Questions
 
 ## Java Language
 
