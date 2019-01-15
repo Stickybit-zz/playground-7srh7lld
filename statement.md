@@ -30,7 +30,7 @@ public class Main {
 
 This skill corresponds to the developer's ability to evaluate and resolve a problem by writing an efficient algorithm in Java. Any developers should be able to solve simple problems but advanced analytical skills and logical reasoning are essential when your are hiring Java R&D developers. Problem Solving exercises cover several topics like the graph theory, dynamic programming and the number theory.
 
-An example of a simple problem problem is: 
+An example of a simple problem is: 
 > *From a given array of natural numbers, return the distance between the two closest numbers.*
 
 ```java runnable
