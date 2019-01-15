@@ -33,6 +33,24 @@ This skill corresponds to the developer's ability to evaluate and resolve a prob
 An example of a simple problem problem is: 
 > *From a given array of natural numbers, return the distance between the two closest numbers.*
 
+```java runnable
+import java.util.*;
+
+public class Main {
+
+    // Return the distance between the two closest numbers.
+    static int distClosestNumbers(int[] numbers) { 
+        // try to solve it!
+    }
+    
+    public static void main(String[] args) {
+        int[] testArray = [3, 9, 4, 15, 99, 7, 98]
+        int result = distClosestNumbers(testArray);
+        System.out.println(assert(result == 1)); // the 2 closest numbers are 98 and 99
+    }
+}
+```
+
 A basic solution consists in: for each number, compare it to all the other numbers. This solution takes a long time to process large data sets, its time complexity is O(n²) then it will fail on some test cases. A more efficient solution consists in a two steps algorithm: 
 
  1. sort the array using a built-in function like `Arrays.sort()` which has a time complexity of O(n log n).
