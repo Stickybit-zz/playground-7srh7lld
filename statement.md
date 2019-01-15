@@ -1,7 +1,7 @@
 
-# Java Interview Questions
+# Java Language Interview Questions and Examples
 
-## Java Language
+## Java Language Questions
 
 ![Java Books Library](https://iili.io/Hpk7I.jpg)
 
@@ -24,7 +24,7 @@ public class Main {
 }
 ```
 
-## Problem Solving
+## Java Problem Solving Questions
 
 ![Java Algorithms](https://www.geeksforgeeks.org/wp-content/uploads/Competitive-Programming-1.jpg)
 
@@ -40,7 +40,7 @@ A basic solution consists in: for each number, compare it to all the other numbe
 
 See? This is much better!
 
-## Design
+## Java Design Questions
 
 ![Application architecture and design](https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/why-study-architecture_0.jpg)
 
@@ -55,13 +55,13 @@ This is a simple question example:
 ```
 A general rule of thumb is to prefer interface over implementation, it improves code maintenance, testability and code portability. `Map getTable()` is the expected answer.
 
-## Readability
+## Java Readability Questions
 
 ![Code readability](https://cdn.tutsplus.com/net/uploads/legacy/516_code/preview.jpg)
 
 This metric focus on the developer’s ability to follow the Java guidelines and best practices. A high score means that the code is easily understandable by other programmers, easier to maintain and to debug. For example, `private String Name;` will impact the readability score because it does not respect the Java naming convention: `Name` should be written `name`.
 
-## Reliability
+## Java Reliability Questions
 
 ![Fixing bugs in practice](https://i.imgur.com/HTisMpC.jpg)
 
