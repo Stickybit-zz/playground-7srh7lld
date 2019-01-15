@@ -38,15 +38,15 @@ import java.util.*;
 
 public class Main {
 
-    // Return the distance between the two closest numbers.
+    // Returns the distance between the two closest numbers.
     static int distClosestNumbers(int[] numbers) { 
-        // try to solve it!
+        // try to implement it!
     }
     
     public static void main(String[] args) {
-        int[] testArray = [3, 9, 4, 15, 99, 7, 98]
+        int[] testArray = {3, 9, 50, 15, 99, 7, 98, 65};
         int result = distClosestNumbers(testArray);
-        System.out.println(assert(result == 1)); // the 2 closest numbers are 98 and 99
+        System.out.println(result); // Expected result is 1 (the 2 closest numbers are 98 and 99)
     }
 }
 ```
