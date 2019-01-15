@@ -69,7 +69,6 @@ This is a simple question example:
 -[ ] public HashMap getTable()
 -[x] public Map getTable()
 -[ ] public Hashtable getTable()
--[ ] Peace & Love
 
 A general rule of thumb is to prefer interface over implementation, it improves code maintenance, testability and code portability. `Map getTable()` is the expected answer.
 
