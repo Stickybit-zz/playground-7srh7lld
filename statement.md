@@ -65,12 +65,12 @@ See? This is much better!
 Having a good understanding of the design patterns, OOP (object-oriented programming) and unit tests give an indication of the developer's ability to implement standard solutions to common problems. A developer with a good level of proficiency in this skill will contribute to increase the maintainability and the extensibility of applications. This skill is particularly important for senior Java developers who will have to work on the architecture of applications to design long-term solutions.
 
 This is a simple question example:
-> *Among these Java method declarations, which is usually the preferred one?*
-```java
-1) public HashMap getTable()
-2) public Map getTable()
-3) public Hashtable getTable()
-```
+?[Among these Java method declarations, which is usually the preferred one?]
+-[ ] public HashMap getTable()
+-[x] public Map getTable()
+-[ ] public Hashtable getTable()
+-[ ] Peace & Love
+
 A general rule of thumb is to prefer interface over implementation, it improves code maintenance, testability and code portability. `Map getTable()` is the expected answer.
 
 ## Java Readability Questions
