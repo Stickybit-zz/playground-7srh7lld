@@ -1,4 +1,5 @@
 This article have been designed to get you prepared with the questions you may encounter during a technical interview for the subject of Java Programming Language. Typical jobs descriptions requiring Java skills are Java Backend programmer or Java Fullstack programmer.
+
 As per my experience, most of the questions are related to:
 1. the programming language specificities (syntax, core API)
 2. problem solving (algorithms, data structures)
