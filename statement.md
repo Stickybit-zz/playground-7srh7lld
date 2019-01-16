@@ -1,7 +1,4 @@
-
-# Java Interview Questions and Programming Examples
-
-## Java Language Questions
+# Java Language Questions
 
 ![Java Books Library](https://iili.io/Hpk7I.jpg)
 
@@ -24,7 +21,7 @@ public class Main {
 }
 ```
 
-## Java Problem Solving Questions
+# Java Problem Solving Questions
 
 ![Java Algorithms](https://www.geeksforgeeks.org/wp-content/uploads/Competitive-Programming-1.jpg)
 
@@ -58,7 +55,7 @@ A basic solution consists in: for each number, compare it to all the other numbe
 
 See? This is much better!
 
-## Java Design Questions
+# Java Design Questions
 
 ![Application architecture and design](https://www.timeshighereducation.com/sites/default/files/styles/the_breaking_news_image_style/public/why-study-architecture_0.jpg)
 
@@ -72,13 +69,13 @@ This is a simple question example:
 
 A general rule of thumb is to prefer interface over implementation, it improves code maintenance, testability and code portability. `Map getTable()` is the expected answer.
 
-## Java Readability Questions
+# Java Readability Questions
 
 ![Code readability](https://cdn.tutsplus.com/net/uploads/legacy/516_code/preview.jpg)
 
 This metric focus on the developerâ€™s ability to follow the Java guidelines and best practices. A high score means that the code is easily understandable by other programmers, easier to maintain and to debug. For example, `private String Name;` will impact the readability score because it does not respect the Java naming convention: `Name` should be written `name`.
 
-## Java Reliability Questions
+# Java Reliability Questions
 
 ![Fixing bugs in practice](https://i.imgur.com/HTisMpC.jpg)
 
@@ -86,7 +83,7 @@ Remember `str.equals("Hello World")` upper? What happens if `str` is `null`? ðŸ§
 
 Reliability refers to the developer's ability to achieve solutions that address specific cases like corner and edge cases. The higher this skill, the higher the developer anticipates possible errors and minimizes those to build robust programs.
 
-## About CodinGame Assessment
+# About CodinGame Assessment
 
 Coding tests are one of the most efficient ways to screen developers before hiring.
 
