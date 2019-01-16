@@ -1,3 +1,11 @@
+This article have been designed to get you prepared with the questions you may encounter during a technical interview for the subject of Java Programming Language. Typical jobs are Java Backend programmer or Java Fullstack programmer.
+As per my experience, most of the questions are related to:
+1. the programming language specificities (syntax, core API)
+2. problem solving (algorithms, data structures)
+3. application design / architecture (design patterns, POO, best practices…). 
+
+You'll find below a summary of these question categories and some examples. I hope this will help for your next tech interview!
+
 # Java Language Questions
 
 ![Java Books Library](https://iili.io/Hpk7I.jpg)
