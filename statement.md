@@ -12,15 +12,16 @@ You'll find below a summary of these question categories and some examples. I ho
 ![Java Books Library](https://iili.io/Hpk7I.jpg)
 
 Questions relating to the Java language check the developer’s ability to use functionalities that are well-known. Using the correct APIs and data structures determine the developer's level of experience in the practice of the Java programming language. This skill is particularly important for a developer who has to be quickly operational in a Java working environment. See below a list of the common questions that can be asked:
-- What is a method `static void main` in a Java program?
+- What is the purpose of the method `public static void main` in a Java program?
 - What is the difference between `System.out.println` and `System.err.println`?
 - What is an `interface` in Java?
 - When would you use an `abstract` class instead of an `interface`?
 - Which `Thread` method is called when it is started?
 - Is it possible to update a `String` object (without using introspection)?
 - What are the differences between a `public` method and a `protected` one?
-- What is a static variable?
-- What is an exception in Java?
+- What is a `static` variable?
+- What is an `Exception` in Java?
+- Is it a good practice to catch a `RuntimeException`?
 - What is the keyword to use in a method signature to allow non-catching of an exception in this method?
 
 An example of very simple task consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
