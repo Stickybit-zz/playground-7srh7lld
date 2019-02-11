@@ -16,13 +16,18 @@ Questions relating to the Java language check the developer’s ability to use f
 - What is the difference between `System.out.println` and `System.err.println`?
 - What is an `interface` in Java?
 - When would you use an `abstract` class instead of an `interface`?
-- Which `Thread` method is called when it is started?
-- Is it possible to update a `String` object (without using introspection)?
 - What are the differences between a `public` method and a `protected` one?
 - What is a `static` variable?
 - What is an `Exception` in Java?
 - Is it a good practice to catch a `RuntimeException`?
 - What is the keyword to use in a method signature to allow non-catching of an exception in this method?
+- What is the latest version of Java?
+- What is the purpose of a garbage collector?
+- What is the difference between an `HashSet` and a `TreeSet`?
+- Which `Thread` method is called when it is started?
+- Is it possible to update a `String` object (without using introspection)?
+- What is the contract between the methods `equals` and `hashcode`?
+- Who is James Gosling?
 
 An example of very simple task consists in writing a method which takes a string `str` as parameter and returns `true` if it equals to `"Hello World"`, `false` otherwise.
 
