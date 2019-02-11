@@ -7,7 +7,7 @@ As per my experience, most of the questions are related to:
 
 You'll find below a summary of these question categories and some examples. I hope this will help for your next tech interview!
 
-# Java Language Questions are mainly about classes, methods, objects, syntax and APIs.
+# Java language questions are mainly about classes, methods, objects, syntax and APIs.
 
 ![Java Books Library](https://iili.io/Hpk7I.jpg)
 
