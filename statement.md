@@ -3,7 +3,7 @@ This article have been designed to get you prepared with the questions you may e
 As per my experience, most of the questions are related to:
 1. the programming language particularities (syntax, core API)
 2. problem solving (algorithms, data structures)
-3. application design / architecture (design patterns, POO, best practices…). 
+3. application design / architecture (design patterns, object oriented programming, best practices…). 
 
 You'll find below a summary of these question categories and some examples. I hope this will help for your next tech interview!
 
