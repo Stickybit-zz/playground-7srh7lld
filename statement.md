@@ -55,7 +55,7 @@ This skill corresponds to the developer's ability to evaluate and resolve a prob
 - What is the O-notation?
 - What is the time complexity of binary search?
 - Given a pointer to the head node of a linked list, reverse this linked list
-- Give the name of 3 sort algorithms and explain their logic
+- Give the name of 3 sorting algorithms and explain their logic
 - What is the difference between DFS and BFS?
 - Implement a recursive and an interative method to compute Fibonacci numbers
 
