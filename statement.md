@@ -11,7 +11,7 @@ You'll find below a summary of these question categories and some examples. I ho
 
 ![Java Books Library](https://iili.io/Hpk7I.jpg)
 
-Questions relating to the Java language check the developer’s ability to use functionalities that are well-known. Using the correct APIs and data structures determine the developer's level of experience in the practice of the Java programming language. This skill is particularly important for a developer who has to be quickly operational in a Java working environment. See below a list of the common questions that can be asked:
+Questions relating to the Java language check the developer’s ability to use functionalities that are well-known. Using the correct APIs and data structures determine the developer's level of experience in the practice of the Java programming language. This skill is particularly important for a developer who has to be quickly operational in a Java working environment. See below a list of the common questions which can be asked by technical recruiters:
 - What is the purpose of the method `public static void main` in a Java program?
 - What is the difference between `System.out.println` and `System.err.println`?
 - What is an `interface` in Java?
