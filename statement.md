@@ -57,7 +57,7 @@ This skill corresponds to the developer's ability to evaluate and resolve a prob
 - Given a pointer to the head node of a linked list, reverse this linked list
 - Give the name of 3 sorting algorithms and explain their logic
 - What is the difference between DFS and BFS?
-- Implement a recursive and an interative method to compute Fibonacci numbers
+- Implement a recursive and an iterative method to compute a given Fibonacci number
 
 An example of a simple problem is: 
 > *From a given array of natural numbers, return the distance between the two closest numbers.*
