@@ -50,7 +50,14 @@ public class Main {
 
 ![Java Algorithms](https://www.geeksforgeeks.org/wp-content/uploads/Competitive-Programming-1.jpg)
 
-This skill corresponds to the developer's ability to evaluate and resolve a problem by writing an efficient algorithm in Java. Any developers should be able to solve simple problems but advanced analytical skills and logical reasoning are essential when your are hiring Java R&D developers. Problem Solving exercises cover several topics like the graph theory, dynamic programming and the number theory.
+This skill corresponds to the developer's ability to evaluate and resolve a problem by writing an efficient algorithm in Java. Any developers should be able to solve simple problems but advanced analytical skills and logical reasoning are essential when your are hiring Java R&D developers. Problem Solving exercises cover several topics like the graph theory, dynamic programming and the number theory. Most of the time problem solving questions require to write code or pseudo code directly in a code editor or, sometimes, in front of a white board. See below some questions:
+- What are time and space complexity? 
+- What is the O-notation?
+- What is the time complexity of binary search?
+- Given a pointer to the head node of a linked list, reverse a linked list.
+- Give the name of 3 common sort algorithms and explain the logic of each of them
+- What is the difference between DFS and BFS?
+- Implement a recursive and an interative method to compute Fibonacci numbers
 
 An example of a simple problem is: 
 > *From a given array of natural numbers, return the distance between the two closest numbers.*
