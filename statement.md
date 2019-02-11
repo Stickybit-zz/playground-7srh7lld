@@ -23,8 +23,8 @@ Questions relating to the Java language check the developer’s ability to use f
 - What is the keyword to use in a method signature to allow non-catching of an exception in this method?
 - What is the latest version of Java?
 - What is the purpose of a garbage collector?
-- What is the difference between an `HashSet` and a `TreeSet`?
-- Which `Thread` method is called when it is started?
+- What is the difference between a `HashSet` and a `TreeSet`?
+- Which `Thread` method is called when a thread starts?
 - Is it possible to update a `String` object (without using introspection)?
 - What is the contract between the methods `equals` and `hashcode`?
 - Who is James Gosling?
