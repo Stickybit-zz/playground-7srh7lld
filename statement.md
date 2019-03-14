@@ -128,3 +128,6 @@ Tech recruiters to HR managers can set up coding tests using platforms like Codi
 Candidates’ code is automatically analyzed and recruiters are provided with performance metrics. Once completed, a [test report](https://www.codingame.com/work/candidates-demo/74) is available to download and share to easily compare and shortlist candidates.
 
 [![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
+
+# Want more Java Interview Questions?
+![Advanced Java Interview Questions] (https://www.codingame.com/work/java-interview-questions/)
