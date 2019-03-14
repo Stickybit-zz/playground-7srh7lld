@@ -130,4 +130,4 @@ Candidates’ code is automatically analyzed and recruiters are provided with pe
 [![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
 
 # Want more Java Interview Questions?
-![Advanced Java Interview Questions] (https://www.codingame.com/work/java-interview-questions/)
+![Advanced Java Interview Questions](https://www.codingame.com/work/java-interview-questions/)
