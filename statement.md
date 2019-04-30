@@ -1,3 +1,5 @@
+[![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
+
 This article have been designed to get you prepared with the questions you may encounter during a technical interview for the subject of Java Programming Language. Typical jobs descriptions requiring Java skills are Java Backend programmer and Java Fullstack programmer.
 
 As per my experience, most of the questions are related to:
