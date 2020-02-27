@@ -1,4 +1,4 @@
-[![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
+[![Test developers' skills](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
 
 This article have been designed to get you prepared with the questions you may encounter during a technical interview for the subject of Java Programming Language. Typical jobs descriptions requiring Java skills are Java Backend programmer and Java Fullstack programmer.
 
@@ -117,16 +117,16 @@ Remember `str.equals("Hello World")` upper? What happens if `str` is `null`? �
 
 Reliability refers to the developer's ability to achieve solutions that address specific cases like corner and edge cases. The higher this skill, the higher the developer anticipates possible errors and minimizes those to build robust programs.
 
-# About CodinGame Assessment
+# About Programming tests
 
-Coding tests are one of the most efficient ways to screen developers before hiring.
+[Coding tests](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979) are one of the most efficient ways to screen developers before hiring.
 
-The CodinGame Java online tests assess candidates' skills. They are perfect for pre-employment screening for developers. Most of the coding interview tools focus only on the candidates' ability to write efficient algorithms but algorithms are a tiny part of software development, mastering them is one skill among several other important skills. [CodinGame Assessment](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979) provides tests covering a wide scope of technical characteristics to evaluate candidates' ability to write good Java programs.
+The CodinGame Java online tests assess candidates' skills. They are perfect for pre-employment screening for developers. Most of the coding interview tools focus only on the candidates' ability to write efficient algorithms but algorithms are a tiny part of software development, mastering them is one skill among several other important skills. CodinGame Assessment provides tests covering a wide scope of technical characteristics to evaluate candidates' ability to write good Java programs.
 
 They provide a proven model for identifying and hiring proficient developers. Candidates code their way through real, practical problems that they could encounter in a company (such as finding a bug in a defective piece of code or properly synchronizing a multi-threaded application), enabling recruiters to measure their coding skills objectively and efficiently.
 
-Tech recruiters to HR managers can set up coding tests using platforms like CodinGame, choosing to test applicants in one specific programming language or over multiple technologies (Java, Angular, Python, etc.).
+Tech recruiters to HR managers can set up coding tests using platforms like CodinGame, choosing to test applicants in one specific programming language or over multiple technologies (Java, Javascript, Python, React etc.).
 
-Candidates’ code is automatically analyzed and recruiters are provided with performance metrics. Once completed, a [test report](https://www.codingame.com/work/candidates-demo/74) is available to download and share to easily compare and shortlist candidates.
+Candidates’ code is automatically analyzed and recruiters are provided with performance metrics. Once completed, a [test report](https://www.codingame.com/work/candidates-demo/74?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979) is available to download and share to easily compare and shortlist candidates.
 
-[![Foo](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
+[![Coding Skills Assessment Tool](https://iili.io/HT9Wv.png)](https://www.codingame.com/work/offers/screening/?utm_campaign=playground&utm_medium=referral&utm_source=codingame&utm_content=35979)
